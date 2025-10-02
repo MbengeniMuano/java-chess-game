@@ -154,19 +154,7 @@ Potential improvements for the project:
   - Timer functionality
   - Online multiplayer support
 
-## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
@@ -178,6 +166,3 @@ Created as a demonstration of Java programming skills, object-oriented design, a
 - Java Swing framework for the graphical interface
 - Standard chess rules and gameplay mechanics
 
----
-
-**Note**: This is a educational project designed to showcase programming skills and clean code architecture. The implementation focuses on readability, maintainability, and proper software engineering practices.
