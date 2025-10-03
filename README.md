@@ -154,8 +154,8 @@ Potential improvements for the project:
   - Timer functionality
   - Online multiplayer support
 
-## 🤝 Contributing
 
+<<<<<<< HEAD
 Contributions are welcome! Here's how you can help:
 
 1. Fork the repository
@@ -168,6 +168,8 @@ Contributions are welcome! Here's how you can help:
 
 Licensed under the MIT License © 2025 Mbengeni Muano.
 See the [LICENSE](LICENSE) file for details.
+=======
+>>>>>>> e7c66f0be693916ba365d326b49089fb0e3cf639
 
 ## 👨‍💻 Author
 
@@ -178,7 +180,3 @@ Created as a demonstration of Java programming skills, object-oriented design, a
 - Chess piece Unicode symbols for clean visual representation
 - Java Swing framework for the graphical interface
 - Standard chess rules and gameplay mechanics
-
----
-
-**Note**: This is a educational project designed to showcase programming skills and clean code architecture. The implementation focuses on readability, maintainability, and proper software engineering practices.
