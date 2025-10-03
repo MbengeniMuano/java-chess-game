@@ -166,7 +166,8 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+Licensed under the MIT License © 2025 Mbengeni Muano.
+See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
